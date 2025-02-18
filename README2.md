@@ -1,2 +1,2 @@
-# I am a file waiting to be commited
+# I am a file waiting to be added to git
 hello everyone!!!
